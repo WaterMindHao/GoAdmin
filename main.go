@@ -22,3 +22,7 @@ func min(a, b int) int {
 func aaa() {
 	fmt.Println("AAA")
 }
+
+func test() {
+	fmt.Println("test")
+}
